@@ -1,3 +1,28 @@
+## Languages & Tools
+
+[crewAI](https://crewai.com)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+
+---
+
+## Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/natasha-lukmanto" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting my repo!</p>
+
+---
+
+> **Note:** The following content below is authored by [crewAI](https://crewai.com). I did not contribute to its content.
+
+---
+
 # AiLatestDevelopment Crew
 
 Welcome to the AiLatestDevelopment Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
