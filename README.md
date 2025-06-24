@@ -1,3 +1,18 @@
+<h1 align="center">Hi there 👋, I'm Natasha!</h1>
+
+<p align="center">
+  A CS Student @ UC Berkeley studying crewAI!  
+</p>
+
+---
+
+## About This Repo
+
+In this repository, you will find what I learned about crewAI.
+- Credit to [Tyler AI](https://youtu.be/ONKOXwucLvE?si=QwINdQNPEFPMq9wf) on YouTube
+
+---
+
 ## Languages & Tools
 
 - [crewAI](https://crewai.com)
