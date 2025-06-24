@@ -1,9 +1,9 @@
 ## Languages & Tools
 
-[crewAI](https://crewai.com)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+- [crewAI](https://crewai.com)
+- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+- [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+- [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 
 ---
 
