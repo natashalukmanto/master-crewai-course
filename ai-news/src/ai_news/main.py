@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 import sys
 import warnings
-
 from datetime import datetime
-
 from crew import AiNews
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
@@ -18,13 +16,25 @@ def run():
     Run the crew.
     """
     inputs = {
-        'topic': 'AI LLMs',
-        'current_year': str(datetime.now().year)
+        'topic': 'PlanYear',
+        'date': datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
     }
-    
-    try:
-        AiNews().crew().kickoff(inputs=inputs)
-    except Exception as e:
-        raise Exception(f"An error occurred while running the crew: {e}")
+
+    inputs_array = [
+        {
+            'topic': 'ai agents',
+            'date': datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+        }, 
+        {
+            'topic': 'openai',
+            'date': datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+        },
+        {
+            'topic': 'hugging face',
+            'date': datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+        }
+    ]
+
+    AiNews().crew().kickoff_for_each(inputs=inputs_array)
 
 run()
